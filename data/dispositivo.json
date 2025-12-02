@@ -1,0 +1,21 @@
+{
+  "nombre": "Nodo GUI Mapa",
+  "protocolo": "meshtastic",
+  "conectado": false,
+  "historial": [
+    {
+      "fecha": "2025-11-28T16:36:54.008077",
+      "mensaje": "try2",
+      "origen": "GUI mapa",
+      "destino": "TestMQTT"
+    }
+  ],
+  "posiciones": [
+    {
+      "fecha": "2025-11-28T16:36:54.008103",
+      "lat": 31.953900000000004,
+      "lon": 35.91060000000002,
+      "alt": 0.0
+    }
+  ]
+}

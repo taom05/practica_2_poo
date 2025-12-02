@@ -1,0 +1,2842 @@
+[
+  {
+    "topic": "sensors/log",
+    "text": "hola",
+    "ts": "2025-10-22T15:44:24Z"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!abcdeff1",
+    "text": "marhaba",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426865766 longitude_i: -29430800 time: 1761151615 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 12 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865436 longitude_i: -29428985 altitude: 454 time: 1761151672 location_source: LOC_INTERNAL PDOP: 624 ground_speed: 2 ground_track: 9490000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426866683 longitude_i: -29427916 time: 1761151639 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426861983 longitude_i: -29433483 time: 1761151668 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!da4c9458\" long_name: \"Deck_Med\" short_name: \"Deck\" macaddr: \"\\330;\\332L\\224X\" hw_model: T_DECK public_key: \"\\212\\340\\22241\\340\\315_(\\016\\236s\\246G4\\342h\\3631\\326\\343\\336-X\\350\\256\\211\\034\\350\\034\\367\\033\"",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426863950 longitude_i: -29429750 time: 1761151700 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 71 device_metrics {   battery_level: 34   voltage: 3.575   channel_utilization: 7.19666624   air_util_tx: 0.0599722192   uptime_seconds: 71 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 97 environment_metrics {   voltage: 0.38   current: 51.1 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "hola tala \n",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865495 longitude_i: -29428641 altitude: 473 time: 1761151757 location_source: LOC_INTERNAL PDOP: 322 ground_speed: 1 ground_track: 2468000 sats_in_view: 6 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426863133 longitude_i: -29436616 time: 1761151780 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "time: 1761151789 device_metrics {   battery_level: 76   voltage: 3.958   channel_utilization: 11.46   air_util_tx: 1.5545   uptime_seconds: 37853 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426865500 longitude_i: -29429683 time: 1761151809 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864616 longitude_i: -29427116 time: 1761151838 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!abcdeff1",
+    "text": "marhaba",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426866616 longitude_i: -29427783 time: 1761151867 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426815221 longitude_i: -29657680 altitude: 478 time: 1761151897 location_source: LOC_INTERNAL timestamp: 1761131850 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 8 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!abcdeff1",
+    "text": "hola",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426865000 longitude_i: -29427766 time: 1761151894 location_source: LOC_INTERNAL altitude_hae: 569 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "Veo que ya puedes chatear ☺️",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864050 longitude_i: -29426083 time: 1761151953 location_source: LOC_INTERNAL altitude_hae: 568 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864133 longitude_i: -29432316 time: 1761151985 location_source: LOC_INTERNAL altitude_hae: 568 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!abcdeff1",
+    "text": "MARHABA",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864300 longitude_i: -29431566 time: 1761152824 location_source: LOC_INTERNAL altitude_hae: 566 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864433 longitude_i: -29429516 time: 1761152894 location_source: LOC_INTERNAL altitude_hae: 565 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865350 longitude_i: -29429383 time: 1761152923 location_source: LOC_INTERNAL altitude_hae: 565 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815221 longitude_i: -29657680 altitude: 478 time: 1761152977 location_source: LOC_INTERNAL timestamp: 1761131850 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 8 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864383 longitude_i: -29429500 time: 1761152959 location_source: LOC_INTERNAL altitude_hae: 565 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426776821 longitude_i: -28990495 altitude: 2681 time: 1761153057 location_source: LOC_INTERNAL PDOP: 449 ground_speed: 283 ground_track: 13813000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!abcdeff1",
+    "text": "MARHABA",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864183 longitude_i: -29428000 time: 1761163022 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426865933 longitude_i: -29427133 time: 1761163053 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864650 longitude_i: -29429433 time: 1761163083 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426863566 longitude_i: -29430316 time: 1761163111 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863766 longitude_i: -29428933 time: 1761163142 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863691 longitude_i: -29428620 altitude: 462 time: 1761163155 location_source: LOC_INTERNAL PDOP: 544 ground_speed: 2 ground_track: 14226000 sats_in_view: 4 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426861128 longitude_i: -29454640 altitude: 475 time: 1761163170 location_source: LOC_INTERNAL PDOP: 382 ground_speed: 181 ground_track: 26080000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815221 longitude_i: -29657680 altitude: 478 time: 1761163238 location_source: LOC_INTERNAL timestamp: 1761131850 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 8 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862983 longitude_i: -29429783 time: 1761163211 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865440 longitude_i: -29429461 altitude: 517 time: 1761163223 location_source: LOC_INTERNAL PDOP: 525 ground_speed: 4 ground_track: 26080000 sats_in_view: 5 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426872593 longitude_i: -29415131 altitude: 514 time: 1761163233 location_source: LOC_INTERNAL PDOP: 1177 ground_speed: 61 ground_track: 4658000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863116 longitude_i: -29428416 time: 1761163243 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864750 longitude_i: -29428966 time: 1761163294 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864453 longitude_i: -29429535 altitude: 499 time: 1761163307 location_source: LOC_INTERNAL PDOP: 276 ground_speed: 2 ground_track: 4658000 sats_in_view: 5 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862553 longitude_i: -29431433 altitude: 499 time: 1761163321 location_source: LOC_INTERNAL PDOP: 1091 ground_speed: 25 ground_track: 21587000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862983 longitude_i: -29429716 time: 1761163319 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864916 longitude_i: -29428466 time: 1761163344 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864033 longitude_i: -29430383 time: 1761163379 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864593 longitude_i: -29428955 altitude: 485 time: 1761163393 location_source: LOC_INTERNAL PDOP: 273 ground_speed: 0 ground_track: 21587000 sats_in_view: 5 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864626 longitude_i: -29431271 altitude: 483 time: 1761163405 location_source: LOC_INTERNAL PDOP: 734 ground_speed: 5 ground_track: 21587000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426861916 longitude_i: -29431300 time: 1761163412 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863750 longitude_i: -29430250 time: 1761163445 location_source: LOC_INTERNAL altitude_hae: 514 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864850 longitude_i: -29428750 time: 1761163567 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864598 longitude_i: -29428390 altitude: 478 time: 1761163581 location_source: LOC_INTERNAL PDOP: 245 ground_speed: 2 ground_track: 21587000 sats_in_view: 4 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426852160 longitude_i: -29457793 altitude: 476 time: 1761163593 location_source: LOC_INTERNAL PDOP: 345 ground_speed: 84 ground_track: 24780000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863450 longitude_i: -29429100 time: 1761163600 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862516 longitude_i: -29429366 time: 1761163630 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426949751 longitude_i: -29779741 altitude: 478 time: 1761163647 location_source: LOC_INTERNAL PDOP: 470 ground_speed: 82 ground_track: 7244000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863150 longitude_i: -29428200 time: 1761163661 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862498 longitude_i: -29428961 altitude: 478 time: 1761163725 location_source: LOC_INTERNAL PDOP: 538 ground_speed: 9 ground_track: 7244000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864850 longitude_i: -29429450 time: 1761163724 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815221 longitude_i: -29657680 altitude: 478 time: 1761163778 location_source: LOC_INTERNAL timestamp: 1761131850 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 8 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864631 longitude_i: -29429101 altitude: 478 time: 1761163764 location_source: LOC_INTERNAL PDOP: 283 ground_speed: 0 ground_track: 7244000 sats_in_view: 4 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862576 longitude_i: -29434926 altitude: 480 time: 1761163778 location_source: LOC_INTERNAL PDOP: 783 ground_speed: 77 ground_track: 25090000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426746390 longitude_i: -29486706 altitude: 1499 time: 1761163810 location_source: LOC_INTERNAL PDOP: 314 ground_speed: 265 ground_track: 8099000 sats_in_view: 5 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866283 longitude_i: -29429716 time: 1761163869 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866405 longitude_i: -29430266 altitude: 759 time: 1761163883 location_source: LOC_INTERNAL PDOP: 276 ground_speed: 1 ground_track: 8099000 sats_in_view: 4 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761163883 environment_metrics {   voltage: 0.38   current: 51.1 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865283 longitude_i: -29428583 time: 1761163903 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426863916 longitude_i: -29429666 time: 1761163972 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865050 longitude_i: -29429100 time: 1761164004 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862833 longitude_i: -29429166 time: 1761164038 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864750 longitude_i: -29429000 time: 1761164072 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863600 longitude_i: -29430133 time: 1761164105 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864783 longitude_i: -29429283 time: 1761164138 location_source: LOC_INTERNAL altitude_hae: 516 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863800 longitude_i: -29430083 time: 1761164170 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "id: \"!65dcea48\" long_name: \"SeeedRepeater\" short_name: \"Ja4\" macaddr: \"\\331-e\\334\\352H\" hw_model: SEEED_SOLAR_NODE public_key: \"\\203<\\352\\204\\034\\277\\221\\277\\335z\\315\\224\\360H\\214k\\005\\317[\\003\\260z\\017\\366X@\\nf\\350\\347\\266/\" is_unmessagable: false",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864400 longitude_i: -29429066 time: 1761164236 location_source: LOC_INTERNAL altitude_hae: 516 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864230 longitude_i: -29429163 altitude: 494 time: 1761164249 location_source: LOC_INTERNAL PDOP: 191 ground_speed: 1 ground_track: 8099000 sats_in_view: 8 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862290 longitude_i: -29432505 altitude: 494 time: 1761164264 location_source: LOC_INTERNAL PDOP: 332 ground_speed: 36 ground_track: 22719000 sats_in_view: 4 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815221 longitude_i: -29657680 altitude: 478 time: 1761164318 location_source: LOC_INTERNAL timestamp: 1761131850 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 8 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426844878 longitude_i: -29499598 altitude: 480 time: 1761164305 location_source: LOC_INTERNAL PDOP: 1718 ground_speed: 1 ground_track: 22719000 sats_in_view: 4 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426863433 longitude_i: -29430183 time: 1761164334 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864145 longitude_i: -29429486 altitude: 472 time: 1761164348 location_source: LOC_INTERNAL PDOP: 830 ground_speed: 0 ground_track: 22719000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864056 longitude_i: -29430725 altitude: 471 time: 1761164366 location_source: LOC_INTERNAL PDOP: 824 ground_speed: 2 ground_track: 22719000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426900455 longitude_i: -29382111 altitude: 872 time: 1761164378 location_source: LOC_INTERNAL PDOP: 328 ground_speed: 95 ground_track: 4083000 sats_in_view: 3 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "time: 1761164366 environment_metrics {   temperature: 23.688   lux: 0 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "id: \"!2ae93dc9\" long_name: \"T-1000\" short_name: \"Ja0\" macaddr: \"\\332\\027*\\351=\\311\" hw_model: TRACKER_T1000_E role: TRACKER public_key: \"\\375e\\307\\201\\260\\375\\020\\241A?\\254\\025\\214\\337p\\232\\000\\331\\005iB\\202<_\\321\\373t\\301i\\220\\247S\"",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864783 longitude_i: -29428716 time: 1761164372 location_source: LOC_INTERNAL altitude_hae: 516 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761164387 device_metrics {   battery_level: 72   voltage: 3.915   channel_utilization: 21.5766678   air_util_tx: 1.76602769   uptime_seconds: 50454 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865083 longitude_i: -29430816 time: 1761164408 location_source: LOC_INTERNAL altitude_hae: 515 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865250 longitude_i: -29429850 time: 1761175362 location_source: LOC_INTERNAL altitude_hae: 521 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864183 longitude_i: -29430233 time: 1761175421 location_source: LOC_INTERNAL altitude_hae: 521 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863250 longitude_i: -29429600 time: 1761175450 location_source: LOC_INTERNAL altitude_hae: 521 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426895816 longitude_i: -29427850 time: 1761252307 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426875383 longitude_i: -29440700 time: 1761252505 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426872216 longitude_i: -29433866 time: 1761252536 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426868016 longitude_i: -29427816 time: 1761252587 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862366 longitude_i: -29427983 time: 1761252782 location_source: LOC_INTERNAL altitude_hae: 572 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865450 longitude_i: -29428983 time: 1761252800 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863733 longitude_i: -29428250 time: 1761252817 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864733 longitude_i: -29428950 time: 1761252852 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426861550 longitude_i: -29429400 time: 1761252905 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863533 longitude_i: -29429800 time: 1761252932 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865050 longitude_i: -29429233 time: 1761252962 location_source: LOC_INTERNAL altitude_hae: 512 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863700 longitude_i: -29428350 time: 1761253082 location_source: LOC_INTERNAL altitude_hae: 512 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864500 longitude_i: -29429016 time: 1761253195 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863133 longitude_i: -29429616 time: 1761253220 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864500 longitude_i: -29429500 time: 1761253243 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864233 longitude_i: -29427583 time: 1761253275 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864750 longitude_i: -29429266 time: 1761253365 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865183 longitude_i: -29427283 time: 1761253460 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864216 longitude_i: -29429983 time: 1761253497 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761253596 environment_metrics {   temperature: 27.6770039   lux: 1 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!2ae93dc9\" long_name: \"T-1000\" short_name: \"Ja0\" macaddr: \"\\332\\027*\\351=\\311\" hw_model: TRACKER_T1000_E role: TRACKER public_key: \"\\375e\\307\\201\\260\\375\\020\\241A?\\254\\025\\214\\337p\\232\\000\\331\\005iB\\202<_\\321\\373t\\301i\\220\\247S\"",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761253621 device_metrics {   battery_level: 101   voltage: 3.889   channel_utilization: 5.69333315   air_util_tx: 0.681722224   uptime_seconds: 61254 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865333 longitude_i: -29428633 time: 1761253651 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864383 longitude_i: -29428866 time: 1761253761 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865250 longitude_i: -29428983 time: 1761253909 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864233 longitude_i: -29429550 time: 1761253972 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865100 longitude_i: -29428883 time: 1761254005 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864216 longitude_i: -29429566 time: 1761254035 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865283 longitude_i: -29428666 time: 1761254426 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864616 longitude_i: -29429716 time: 1761254486 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865100 longitude_i: -29428333 time: 1761254545 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863416 longitude_i: -29430916 time: 1761254575 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864683 longitude_i: -29430200 time: 1761254612 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865716 longitude_i: -29430383 time: 1761254851 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864766 longitude_i: -29429733 time: 1761254912 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863283 longitude_i: -29429766 time: 1761254948 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864883 longitude_i: -29429216 time: 1761254984 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864116 longitude_i: -29430383 time: 1761255086 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863533 longitude_i: -29429100 time: 1761255116 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863516 longitude_i: -29429400 time: 1761255176 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 426864633 longitude_i: -29429133 time: 1760497581 location_source: LOC_INTERNAL altitude_hae: 529 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864650 longitude_i: -29429050 time: 1761255205 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761255421 device_metrics {   battery_level: 101   voltage: 3.946   channel_utilization: 0   air_util_tx: 1.05680549   uptime_seconds: 63054 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865716 longitude_i: -29429366 time: 1761255643 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864550 longitude_i: -29429033 time: 1761255674 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 423667066 longitude_i: -37527733 time: 1761293278 location_source: LOC_INTERNAL altitude_hae: 920 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 423669933 longitude_i: -37530000 time: 1761293441 location_source: LOC_INTERNAL altitude_hae: 915 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "id: \"!2ae93dc9\" long_name: \"T-1000\" short_name: \"Ja0\" macaddr: \"\\332\\027*\\351=\\311\" hw_model: TRACKER_T1000_E role: TRACKER public_key: \"\\375e\\307\\201\\260\\375\\020\\241A?\\254\\025\\214\\337p\\232\\000\\331\\005iB\\202<_\\321\\373t\\301i\\220\\247S\"",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 423669233 longitude_i: -37528816 time: 1761295703 location_source: LOC_INTERNAL altitude_hae: 945 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!2ae93dc9",
+    "text": "latitude_i: 423668016 longitude_i: -37528766 time: 1761295988 location_source: LOC_INTERNAL altitude_hae: 879 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865533 longitude_i: -29429733 time: 1761372009 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863600 longitude_i: -29429133 time: 1761372041 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863450 longitude_i: -29429100 time: 1761372137 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862533 longitude_i: -29427883 time: 1761372167 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815270 longitude_i: -29657255 altitude: 498 time: 1761372223 location_source: LOC_INTERNAL timestamp: 1761347885 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863416 longitude_i: -29429483 time: 1761372195 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864650 longitude_i: -29429500 time: 1761372224 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863283 longitude_i: -29427850 time: 1761372283 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864616 longitude_i: -29428633 time: 1761372347 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862566 longitude_i: -29428833 time: 1761372536 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863316 longitude_i: -29427950 time: 1761372635 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761372695 device_metrics {   battery_level: 97   voltage: 4.15   channel_utilization: 0   air_util_tx: 0.157277778   uptime_seconds: 1364114 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864066 longitude_i: -29428833 time: 1761372669 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815270 longitude_i: -29657255 altitude: 498 time: 1761372763 location_source: LOC_INTERNAL timestamp: 1761347885 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862916 longitude_i: -29428700 time: 1761372770 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863933 longitude_i: -29428116 time: 1761372803 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864533 longitude_i: -29429050 time: 1761372868 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!65dcea48\" long_name: \"SeeedRepeater\" short_name: \"Ja4\" macaddr: \"\\331-e\\334\\352H\" hw_model: SEEED_SOLAR_NODE public_key: \"\\203<\\352\\204\\034\\277\\221\\277\\335z\\315\\224\\360H\\214k\\005\\317[\\003\\260z\\017\\366X@\\nf\\350\\347\\266/\" is_unmessagable: false",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863550 longitude_i: -29428283 time: 1761373113 location_source: LOC_INTERNAL altitude_hae: 541 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864400 longitude_i: -29429283 time: 1761373177 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862983 longitude_i: -29427716 time: 1761373244 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815270 longitude_i: -29657255 altitude: 498 time: 1761373303 location_source: LOC_INTERNAL timestamp: 1761347885 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864666 longitude_i: -29429000 time: 1761373275 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863800 longitude_i: -29428400 time: 1761373310 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865383 longitude_i: -29428566 time: 1761373550 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864733 longitude_i: -29427533 time: 1761373730 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864333 longitude_i: -29428733 time: 1761373764 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864666 longitude_i: -29429883 time: 1761373795 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815270 longitude_i: -29657255 altitude: 498 time: 1761373843 location_source: LOC_INTERNAL timestamp: 1761347885 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864233 longitude_i: -29428683 time: 1761373833 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864433 longitude_i: -29428900 time: 1761374103 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864366 longitude_i: -29427616 time: 1761374133 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864150 longitude_i: -29428966 time: 1761374282 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863150 longitude_i: -29427116 time: 1761374336 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815270 longitude_i: -29657255 altitude: 498 time: 1761374383 location_source: LOC_INTERNAL timestamp: 1761347885 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864566 longitude_i: -29428450 time: 1761374365 location_source: LOC_INTERNAL altitude_hae: 531 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866283 longitude_i: -29430083 time: 1761374752 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865983 longitude_i: -29428916 time: 1761374776 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761374855 device_metrics {   battery_level: 96   voltage: 4.147   channel_utilization: 0   air_util_tx: 0.174388885   uptime_seconds: 1366274 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864883 longitude_i: -29428700 time: 1761374866 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815270 longitude_i: -29657255 altitude: 498 time: 1761374923 location_source: LOC_INTERNAL timestamp: 1761347885 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865616 longitude_i: -29430366 time: 1761374963 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864050 longitude_i: -29428666 time: 1761374993 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865166 longitude_i: -29430066 time: 1761375024 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864500 longitude_i: -29429166 time: 1761375116 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865500 longitude_i: -29429550 time: 1761375182 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864616 longitude_i: -29428816 time: 1761375280 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761375330 environment_metrics {   temperature: 21.6782722   lux: 0 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!2ae93dc9\" long_name: \"T-1000\" short_name: \"Ja0\" macaddr: \"\\332\\027*\\351=\\311\" hw_model: TRACKER_T1000_E role: TRACKER public_key: \"\\375e\\307\\201\\260\\375\\020\\241A?\\254\\025\\214\\337p\\232\\000\\331\\005iB\\202<_\\321\\373t\\301i\\220\\247S\"",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865866 longitude_i: -29429733 time: 1761375351 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864800 longitude_i: -29430183 time: 1761391859 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864450 longitude_i: -29428400 time: 1761391987 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863933 longitude_i: -29429800 time: 1761392020 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865216 longitude_i: -29431250 time: 1761392053 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864683 longitude_i: -29427983 time: 1761392087 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761392135 device_metrics {   battery_level: 98   voltage: 4.165   channel_utilization: 0   air_util_tx: 0.174388885   uptime_seconds: 1383554 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761392204 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863250 longitude_i: -29427583 time: 1761392189 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862716 longitude_i: -29431500 time: 1761392222 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865250 longitude_i: -29427500 time: 1761392252 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761392274 environment_metrics {   temperature: 21.5858765   lux: 0 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865133 longitude_i: -29429216 time: 1761392280 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761392296 device_metrics {   battery_level: 57   voltage: 3.779   channel_utilization: 15.2883339   air_util_tx: 1.3595556   uptime_seconds: 7251 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864850 longitude_i: -29430966 time: 1761392339 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864366 longitude_i: -29429833 time: 1761392420 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865400 longitude_i: -29427133 time: 1761392455 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864800 longitude_i: -29429216 time: 1761392581 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863466 longitude_i: -29430883 time: 1761392698 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761392744 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864350 longitude_i: -29427450 time: 1761392723 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864283 longitude_i: -29428733 time: 1761392746 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864683 longitude_i: -29427533 time: 1761392817 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864916 longitude_i: -29429033 time: 1761392877 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864983 longitude_i: -29427516 time: 1761392907 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865316 longitude_i: -29428150 time: 1761392994 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864283 longitude_i: -29428950 time: 1761393024 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865050 longitude_i: -29427600 time: 1761393128 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864216 longitude_i: -29429083 time: 1761393161 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761393284 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863783 longitude_i: -29427800 time: 1761393263 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864650 longitude_i: -29430133 time: 1761393292 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865650 longitude_i: -29427850 time: 1761393349 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863550 longitude_i: -29428516 time: 1761393376 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 4 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865133 longitude_i: -29430333 time: 1761393883 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864750 longitude_i: -29428700 time: 1761393947 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864366 longitude_i: -29427516 time: 1761394007 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864350 longitude_i: -29428850 time: 1761394067 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761394096 device_metrics {   battery_level: 57   voltage: 3.782   channel_utilization: 7.36   air_util_tx: 1.49233329   uptime_seconds: 9051 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863400 longitude_i: -29430883 time: 1761394131 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863333 longitude_i: -29429500 time: 1761394191 location_source: LOC_INTERNAL altitude_hae: 522 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761394295 device_metrics {   battery_level: 99   voltage: 4.176   channel_utilization: 0   air_util_tx: 0.187638894   uptime_seconds: 1385714 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863266 longitude_i: -29431416 time: 1761394284 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864083 longitude_i: -29430750 time: 1761394319 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761394364 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865233 longitude_i: -29429200 time: 1761394351 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865483 longitude_i: -29427633 time: 1761394445 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864250 longitude_i: -29426133 time: 1761394540 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864700 longitude_i: -29428283 time: 1761394573 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!65dcea48\" long_name: \"SeeedRepeater\" short_name: \"Ja4\" macaddr: \"\\331-e\\334\\352H\" hw_model: SEEED_SOLAR_NODE public_key: \"\\203<\\352\\204\\034\\277\\221\\277\\335z\\315\\224\\360H\\214k\\005\\317[\\003\\260z\\017\\366X@\\nf\\350\\347\\266/\" is_unmessagable: false",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864916 longitude_i: -29430116 time: 1761394698 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864483 longitude_i: -29428483 time: 1761394766 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865766 longitude_i: -29427316 time: 1761394802 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761394904 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864283 longitude_i: -29427966 time: 1761394872 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865066 longitude_i: -29429300 time: 1761394905 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864516 longitude_i: -29428283 time: 1761395043 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865866 longitude_i: -29430216 time: 1761395101 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863616 longitude_i: -29427950 time: 1761395159 location_source: LOC_INTERNAL altitude_hae: 523 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864433 longitude_i: -29429583 time: 1761395185 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864550 longitude_i: -29428016 time: 1761395240 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865400 longitude_i: -29428633 time: 1761395312 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864383 longitude_i: -29428866 time: 1761395382 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862350 longitude_i: -29427316 time: 1761395414 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761395444 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864916 longitude_i: -29428516 time: 1761395450 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864983 longitude_i: -29428450 time: 1761395552 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864816 longitude_i: -29427166 time: 1761395582 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866250 longitude_i: -29427183 time: 1761395806 location_source: LOC_INTERNAL altitude_hae: 524 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761395874 environment_metrics {   temperature: 21.7402191   lux: 0 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!2ae93dc9\" long_name: \"T-1000\" short_name: \"Ja0\" macaddr: \"\\332\\027*\\351=\\311\" hw_model: TRACKER_T1000_E role: TRACKER public_key: \"\\375e\\307\\201\\260\\375\\020\\241A?\\254\\025\\214\\337p\\232\\000\\331\\005iB\\202<_\\321\\373t\\301i\\220\\247S\"",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761395896 device_metrics {   battery_level: 56   voltage: 3.774   channel_utilization: 17.2966671   air_util_tx: 1.45991671   uptime_seconds: 10851 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863100 longitude_i: -29429716 time: 1761395914 location_source: LOC_INTERNAL altitude_hae: 525 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864716 longitude_i: -29429683 time: 1761395948 location_source: LOC_INTERNAL altitude_hae: 525 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761395984 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866066 longitude_i: -29429600 time: 1761395978 location_source: LOC_INTERNAL altitude_hae: 525 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864716 longitude_i: -29428166 time: 1761396065 location_source: LOC_INTERNAL altitude_hae: 525 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "id: \"!cb12a239\" long_name: \"Gabriel\" short_name: \"GER\" hw_model: PRIVATE_HW",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "latitude_i: 681775600 longitude_i: 814957800 altitude: 0 time: 1761396113",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "error_reason: NO_RESPONSE",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "Mensaje desde el ordenador de Gabriel",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866566 longitude_i: -29427983 time: 1761396235 location_source: LOC_INTERNAL altitude_hae: 525 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865900 longitude_i: -29429433 time: 1761396266 location_source: LOC_INTERNAL altitude_hae: 525 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864516 longitude_i: -29427900 time: 1761396356 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761396455 device_metrics {   battery_level: 99   voltage: 4.177   channel_utilization: 0   air_util_tx: 0.341   uptime_seconds: 1387874 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863633 longitude_i: -29426850 time: 1761396444 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761396524 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865933 longitude_i: -29428816 time: 1761396506 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865150 longitude_i: -29425600 time: 1761396538 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863750 longitude_i: -29426000 time: 1761396609 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864516 longitude_i: -29427650 time: 1761396651 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865650 longitude_i: -29427333 time: 1761396747 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863116 longitude_i: -29426466 time: 1761396793 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 12 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865133 longitude_i: -29426033 time: 1761396819 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863866 longitude_i: -29427233 time: 1761396844 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865350 longitude_i: -29428500 time: 1761396952 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864816 longitude_i: -29429533 time: 1761396991 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761397064 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867600 longitude_i: -29428583 time: 1761397082 location_source: LOC_INTERNAL altitude_hae: 527 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864733 longitude_i: -29428116 time: 1761397199 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865083 longitude_i: -29426666 time: 1761397238 location_source: LOC_INTERNAL altitude_hae: 543 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "id: \"!cb12a239\" long_name: \"Gabriel\" short_name: \"GER\" hw_model: PRIVATE_HW",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "latitude_i: 681775600 longitude_i: 814957800 altitude: 0 time: 1761397252",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "error_reason: NO_RESPONSE",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "Mensaje desde el ordenador de Gabriel",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865083 longitude_i: -29426666 time: 1761397255 location_source: LOC_INTERNAL altitude_hae: 543 sats_in_view: 7 seq_number: 2 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863633 longitude_i: -29425500 time: 1761397331 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864500 longitude_i: -29428766 time: 1761397359 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863633 longitude_i: -29426766 time: 1761397419 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865333 longitude_i: -29429700 time: 1761397450 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864266 longitude_i: -29428416 time: 1761397483 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864816 longitude_i: -29429400 time: 1761397545 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761397604 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867383 longitude_i: -29429116 time: 1761397694 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864800 longitude_i: -29427850 time: 1761397726 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864050 longitude_i: -29429700 time: 1761397792 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862933 longitude_i: -29429433 time: 1761397869 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864033 longitude_i: -29428466 time: 1761397901 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863100 longitude_i: -29429233 time: 1761397933 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864750 longitude_i: -29425616 time: 1761397968 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864033 longitude_i: -29428133 time: 1761397998 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761398144 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863583 longitude_i: -29430333 time: 1761398180 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864433 longitude_i: -29431183 time: 1761398241 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864333 longitude_i: -29428233 time: 1761398300 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864033 longitude_i: -29429466 time: 1761398336 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 13 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866233 longitude_i: -29426433 time: 1761398371 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 13 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864533 longitude_i: -29429100 time: 1761398409 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "id: \"!cb12a239\" long_name: \"Gabriel\" short_name: \"GER\" hw_model: PRIVATE_HW",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "latitude_i: 681775600 longitude_i: 814957800 altitude: 0 time: 1761398490",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "error_reason: NO_RESPONSE",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "Mensaje desde el ordenador de Gabriel",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865000 longitude_i: -29429900 time: 1761398494 location_source: LOC_INTERNAL altitude_hae: 544 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863233 longitude_i: -29432083 time: 1761400127 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866066 longitude_i: -29426433 time: 1761400157 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863483 longitude_i: -29431483 time: 1761400187 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865550 longitude_i: -29428350 time: 1761400221 location_source: LOC_INTERNAL altitude_hae: 540 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863100 longitude_i: -29430816 time: 1761400249 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761400304 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865366 longitude_i: -29429533 time: 1761400280 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864283 longitude_i: -29430566 time: 1761400310 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864283 longitude_i: -29429166 time: 1761400346 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865466 longitude_i: -29428600 time: 1761400382 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865400 longitude_i: -29427033 time: 1761400442 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864716 longitude_i: -29428466 time: 1761400472 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864833 longitude_i: -29425183 time: 1761400501 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863883 longitude_i: -29428533 time: 1761400538 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862983 longitude_i: -29429500 time: 1761400574 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864550 longitude_i: -29428600 time: 1761400607 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865650 longitude_i: -29428116 time: 1761400671 location_source: LOC_INTERNAL altitude_hae: 540 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864050 longitude_i: -29428883 time: 1761400733 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761400775 device_metrics {   battery_level: 99   voltage: 4.176   channel_utilization: 0   air_util_tx: 0.296749979   uptime_seconds: 1392194 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864466 longitude_i: -29427700 time: 1761400764 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761400844 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863200 longitude_i: -29430783 time: 1761400885 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864450 longitude_i: -29429633 time: 1761400913 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863783 longitude_i: -29428666 time: 1761400942 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864850 longitude_i: -29428516 time: 1761401043 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863700 longitude_i: -29427850 time: 1761401231 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862466 longitude_i: -29427350 time: 1761401266 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864883 longitude_i: -29427316 time: 1761401294 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863400 longitude_i: -29427783 time: 1761401320 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863216 longitude_i: -29429700 time: 1761401347 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761401384 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865100 longitude_i: -29428450 time: 1761401379 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863983 longitude_i: -29429300 time: 1761401408 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863416 longitude_i: -29427716 time: 1761401509 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864050 longitude_i: -29430150 time: 1761401540 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864866 longitude_i: -29428700 time: 1761401573 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 4 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863683 longitude_i: -29428116 time: 1761401632 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864783 longitude_i: -29429500 time: 1761401661 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864933 longitude_i: -29427566 time: 1761401691 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864350 longitude_i: -29430100 time: 1761401751 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!65dcea48\" long_name: \"SeeedRepeater\" short_name: \"Ja4\" macaddr: \"\\331-e\\334\\352H\" hw_model: SEEED_SOLAR_NODE public_key: \"\\203<\\352\\204\\034\\277\\221\\277\\335z\\315\\224\\360H\\214k\\005\\317[\\003\\260z\\017\\366X@\\nf\\350\\347\\266/\" is_unmessagable: false",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864983 longitude_i: -29427250 time: 1761401869 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761401924 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864183 longitude_i: -29428233 time: 1761401913 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864300 longitude_i: -29430366 time: 1761402014 location_source: LOC_INTERNAL altitude_hae: 539 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864466 longitude_i: -29427850 time: 1761402046 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863950 longitude_i: -29428950 time: 1761402219 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865033 longitude_i: -29429100 time: 1761402351 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864000 longitude_i: -29429233 time: 1761402424 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865000 longitude_i: -29427783 time: 1761402494 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864300 longitude_i: -29428900 time: 1761402523 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865033 longitude_i: -29430700 time: 1761402553 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864866 longitude_i: -29428416 time: 1761402582 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864283 longitude_i: -29427216 time: 1761402617 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863866 longitude_i: -29429050 time: 1761402659 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865633 longitude_i: -29425900 time: 1761402691 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863583 longitude_i: -29428783 time: 1761402726 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864883 longitude_i: -29427950 time: 1761402753 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863800 longitude_i: -29429200 time: 1761402780 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863683 longitude_i: -29427100 time: 1761402807 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864100 longitude_i: -29428316 time: 1761402837 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865233 longitude_i: -29428700 time: 1761402867 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864100 longitude_i: -29428750 time: 1761402900 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761402935 device_metrics {   battery_level: 98   voltage: 4.172   channel_utilization: 0   air_util_tx: 0.250638872   uptime_seconds: 1394354 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761403004 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866516 longitude_i: -29430516 time: 1761403047 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761403074 environment_metrics {   temperature: 21.6331539   lux: 0 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!2ae93dc9\" long_name: \"T-1000\" short_name: \"Ja0\" macaddr: \"\\332\\027*\\351=\\311\" hw_model: TRACKER_T1000_E role: TRACKER public_key: \"\\375e\\307\\201\\260\\375\\020\\241A?\\254\\025\\214\\337p\\232\\000\\331\\005iB\\202<_\\321\\373t\\301i\\220\\247S\"",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865583 longitude_i: -29430800 time: 1761403090 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761403096 device_metrics {   battery_level: 54   voltage: 3.759   channel_utilization: 8.92333317   air_util_tx: 1.72261107   uptime_seconds: 18051 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865316 longitude_i: -29428600 time: 1761403142 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863850 longitude_i: -29428833 time: 1761403164 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864666 longitude_i: -29427633 time: 1761403256 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863833 longitude_i: -29428316 time: 1761403379 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864000 longitude_i: -29430516 time: 1761403412 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863733 longitude_i: -29428716 time: 1761403437 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865133 longitude_i: -29428700 time: 1761403462 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761403544 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864300 longitude_i: -29428083 time: 1761403527 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865633 longitude_i: -29427200 time: 1761403557 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864683 longitude_i: -29427083 time: 1761403592 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863116 longitude_i: -29426766 time: 1761403703 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 4 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863450 longitude_i: -29429450 time: 1761403747 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863883 longitude_i: -29427816 time: 1761403777 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863016 longitude_i: -29427383 time: 1761403837 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864100 longitude_i: -29427866 time: 1761403868 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864783 longitude_i: -29425733 time: 1761403894 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864166 longitude_i: -29427983 time: 1761403929 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864483 longitude_i: -29423850 time: 1761403960 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761404084 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865000 longitude_i: -29427100 time: 1761404064 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864583 longitude_i: -29428266 time: 1761404247 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865800 longitude_i: -29429216 time: 1761404273 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864933 longitude_i: -29428200 time: 1761404300 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863750 longitude_i: -29426183 time: 1761404394 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865050 longitude_i: -29428050 time: 1761404428 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866266 longitude_i: -29428300 time: 1761404564 location_source: LOC_INTERNAL altitude_hae: 538 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761404624 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865300 longitude_i: -29428383 time: 1761404599 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866216 longitude_i: -29427850 time: 1761404659 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864050 longitude_i: -29426550 time: 1761404761 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864000 longitude_i: -29428116 time: 1761404792 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864700 longitude_i: -29429250 time: 1761404855 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761404896 device_metrics {   battery_level: 54   voltage: 3.755   channel_utilization: 2.05333328   air_util_tx: 1.58641672   uptime_seconds: 19851 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866050 longitude_i: -29428766 time: 1761405050 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761405095 device_metrics {   battery_level: 98   voltage: 4.174   channel_utilization: 0   air_util_tx: 0.236027777   uptime_seconds: 1396514 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864066 longitude_i: -29427650 time: 1761405120 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864083 longitude_i: -29428516 time: 1761405200 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866233 longitude_i: -29430083 time: 1761405235 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865066 longitude_i: -29429850 time: 1761405271 location_source: LOC_INTERNAL altitude_hae: 536 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867666 longitude_i: -29430033 time: 1761405474 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864800 longitude_i: -29430616 time: 1761405498 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867650 longitude_i: -29429083 time: 1761405527 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865433 longitude_i: -29429516 time: 1761405549 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864100 longitude_i: -29429366 time: 1761405600 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866000 longitude_i: -29430183 time: 1761405651 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761405704 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864466 longitude_i: -29429450 time: 1761405715 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865483 longitude_i: -29428833 time: 1761405747 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864866 longitude_i: -29427300 time: 1761405777 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867533 longitude_i: -29429166 time: 1761405810 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866316 longitude_i: -29428983 time: 1761405848 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864150 longitude_i: -29428233 time: 1761405883 location_source: LOC_INTERNAL altitude_hae: 541 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866283 longitude_i: -29427466 time: 1761407375 location_source: LOC_INTERNAL altitude_hae: 560 sats_in_view: 12 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865766 longitude_i: -29429850 time: 1761407397 location_source: LOC_INTERNAL altitude_hae: 560 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865983 longitude_i: -29428483 time: 1761407421 location_source: LOC_INTERNAL altitude_hae: 560 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865783 longitude_i: -29427183 time: 1761407471 location_source: LOC_INTERNAL altitude_hae: 560 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867900 longitude_i: -29429716 time: 1761407496 location_source: LOC_INTERNAL altitude_hae: 560 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865166 longitude_i: -29428633 time: 1761407518 location_source: LOC_INTERNAL altitude_hae: 560 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867033 longitude_i: -29430283 time: 1761407545 location_source: LOC_INTERNAL altitude_hae: 560 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865866 longitude_i: -29430733 time: 1761407574 location_source: LOC_INTERNAL altitude_hae: 560 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865566 longitude_i: -29428250 time: 1761407604 location_source: LOC_INTERNAL altitude_hae: 559 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866400 longitude_i: -29429733 time: 1761407633 location_source: LOC_INTERNAL altitude_hae: 559 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865350 longitude_i: -29429300 time: 1761407662 location_source: LOC_INTERNAL altitude_hae: 559 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865016 longitude_i: -29429583 time: 1761407756 location_source: LOC_INTERNAL altitude_hae: 559 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864083 longitude_i: -29428983 time: 1761407823 location_source: LOC_INTERNAL altitude_hae: 559 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761407864 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865650 longitude_i: -29428750 time: 1761407853 location_source: LOC_INTERNAL altitude_hae: 559 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866450 longitude_i: -29429733 time: 1761407882 location_source: LOC_INTERNAL altitude_hae: 559 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865033 longitude_i: -29429600 time: 1761407913 location_source: LOC_INTERNAL altitude_hae: 559 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864350 longitude_i: -29427833 time: 1761407943 location_source: LOC_INTERNAL altitude_hae: 508 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863933 longitude_i: -29428983 time: 1761408108 location_source: LOC_INTERNAL altitude_hae: 508 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862716 longitude_i: -29429383 time: 1761408147 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426868066 longitude_i: -29427016 time: 1761408177 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866883 longitude_i: -29427183 time: 1761408262 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865116 longitude_i: -29427366 time: 1761408294 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863566 longitude_i: -29427966 time: 1761408327 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761408404 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866350 longitude_i: -29427650 time: 1761408396 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863616 longitude_i: -29422166 time: 1761408428 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865116 longitude_i: -29423266 time: 1761408462 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863983 longitude_i: -29425216 time: 1761408495 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864766 longitude_i: -29428616 time: 1761408531 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864283 longitude_i: -29422050 time: 1761408566 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 10 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865433 longitude_i: -29428633 time: 1761408603 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865183 longitude_i: -29427033 time: 1761408639 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865000 longitude_i: -29428800 time: 1761408672 location_source: LOC_INTERNAL altitude_hae: 509 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863850 longitude_i: -29429200 time: 1761408774 location_source: LOC_INTERNAL altitude_hae: 510 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864800 longitude_i: -29428733 time: 1761408809 location_source: LOC_INTERNAL altitude_hae: 510 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863200 longitude_i: -29428150 time: 1761408843 location_source: LOC_INTERNAL altitude_hae: 510 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761408944 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864483 longitude_i: -29428450 time: 1761408912 location_source: LOC_INTERNAL altitude_hae: 510 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863766 longitude_i: -29426866 time: 1761408973 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863283 longitude_i: -29429016 time: 1761409002 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864700 longitude_i: -29425916 time: 1761409030 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864600 longitude_i: -29427783 time: 1761409059 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866833 longitude_i: -29426400 time: 1761409091 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864450 longitude_i: -29424866 time: 1761409122 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863733 longitude_i: -29429250 time: 1761409183 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426868033 longitude_i: -29425683 time: 1761409215 location_source: LOC_INTERNAL altitude_hae: 511 sats_in_view: 4 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426862883 longitude_i: -29430050 time: 1761409332 location_source: LOC_INTERNAL altitude_hae: 512 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865616 longitude_i: -29428533 time: 1761409362 location_source: LOC_INTERNAL altitude_hae: 512 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761409415 device_metrics {   battery_level: 99   voltage: 4.176   channel_utilization: 0   air_util_tx: 0.157277778   uptime_seconds: 1400834 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761409484 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866583 longitude_i: -29426850 time: 1761409455 location_source: LOC_INTERNAL altitude_hae: 512 sats_in_view: 9 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865800 longitude_i: -29428866 time: 1761409543 location_source: LOC_INTERNAL altitude_hae: 512 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864550 longitude_i: -29428233 time: 1761409642 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 11 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864366 longitude_i: -29429600 time: 1761409707 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865216 longitude_i: -29428250 time: 1761409731 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865516 longitude_i: -29426016 time: 1761409831 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867016 longitude_i: -29425533 time: 1761409889 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866283 longitude_i: -29424500 time: 1761409950 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866333 longitude_i: -29426100 time: 1761409978 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761410024 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864666 longitude_i: -29426583 time: 1761410040 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865733 longitude_i: -29425633 time: 1761410066 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865550 longitude_i: -29428866 time: 1761410133 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864866 longitude_i: -29425416 time: 1761410202 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864766 longitude_i: -29427116 time: 1761410233 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865833 longitude_i: -29426100 time: 1761410270 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761410274 environment_metrics {   temperature: 21.6331539   lux: 0 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "id: \"!2ae93dc9\" long_name: \"T-1000\" short_name: \"Ja0\" macaddr: \"\\332\\027*\\351=\\311\" hw_model: TRACKER_T1000_E role: TRACKER public_key: \"\\375e\\307\\201\\260\\375\\020\\241A?\\254\\025\\214\\337p\\232\\000\\331\\005iB\\202<_\\321\\373t\\301i\\220\\247S\"",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761410296 device_metrics {   battery_level: 51   voltage: 3.732   channel_utilization: 8.92333317   air_util_tx: 1.62938893   uptime_seconds: 25251 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865183 longitude_i: -29428216 time: 1761410307 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426868616 longitude_i: -29424700 time: 1761410345 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865916 longitude_i: -29428350 time: 1761410379 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426868333 longitude_i: -29425366 time: 1761410404 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864633 longitude_i: -29428950 time: 1761410439 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866933 longitude_i: -29425483 time: 1761410470 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865650 longitude_i: -29425033 time: 1761410500 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864850 longitude_i: -29427300 time: 1761410531 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761410564 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863950 longitude_i: -29429383 time: 1761410571 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867483 longitude_i: -29425716 time: 1761410610 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864883 longitude_i: -29428166 time: 1761410709 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865433 longitude_i: -29425600 time: 1761410826 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866433 longitude_i: -29425233 time: 1761410852 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426867016 longitude_i: -29424083 time: 1761410883 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865433 longitude_i: -29424116 time: 1761410915 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865150 longitude_i: -29428483 time: 1761410980 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866933 longitude_i: -29426933 time: 1761411015 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426864950 longitude_i: -29428900 time: 1761411051 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815511 longitude_i: -29657200 altitude: 479 time: 1761411104 location_source: LOC_INTERNAL timestamp: 1761391082 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 7 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863816 longitude_i: -29429466 time: 1761411194 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865700 longitude_i: -29426800 time: 1761411258 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863866 longitude_i: -29428850 time: 1761411368 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 8 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865466 longitude_i: -29428200 time: 1761411441 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426860916 longitude_i: -29430983 time: 1761411471 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 5 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426866333 longitude_i: -29427316 time: 1761411501 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863283 longitude_i: -29428883 time: 1761411532 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "time: 1761411575 device_metrics {   battery_level: 98   voltage: 4.172   channel_utilization: 0   air_util_tx: 0.157277778   uptime_seconds: 1402994 }",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426865250 longitude_i: -29428216 time: 1761411561 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 7 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426863700 longitude_i: -29429466 time: 1761411591 location_source: LOC_INTERNAL altitude_hae: 526 sats_in_view: 6 seq_number: 1 precision_bits: 32",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "id: \"!cb12a239\" long_name: \"Gabriel\" short_name: \"GER\" hw_model: PRIVATE_HW",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "latitude_i: 681775600 longitude_i: 814957800 altitude: 0 time: 1761421765",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!cb12a239",
+    "text": "Mensaje desde el ordenador de Gabriel",
+    "proto": "meshtastic"
+  },
+  {
+    "meshtastic_from": "!ae609ce8",
+    "text": "latitude_i: 426815188 longitude_i: -29656725 altitude: 489 time: 1761486166 location_source: LOC_INTERNAL timestamp: 1761477482 altitude_geoidal_separation: 51 ground_speed: 0 ground_track: 0 sats_in_view: 10 precision_bits: 32",
+    "proto": "meshtastic"
+  }
+]
