@@ -1,0 +1,16 @@
+{
+  "mqtt": {
+    "broker": "mqtt.meshtastic.org",
+    "port": 1883,
+    "username": "meshdev",
+    "password": "large4cats"
+  },
+  "meshtastic": {
+    "root_topic": "msh/EU_868/ES/2/e/",
+    "channel": "TestMQTT",
+    "key": "ymACgCy9Tdb8jHbLxUxZ/4ADX+BWLOGVihmKHcHTVyo="
+  },
+  "almacen": {
+    "archivo": "../data/data_store.json"
+  }
+}
